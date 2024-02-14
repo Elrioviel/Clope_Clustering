@@ -1,0 +1,2 @@
+E:\Practice for interview\Projects\CLOPE_Clustering\obj\Debug\CLOPE_Clustering.csproj.AssemblyReference.cache
+E:\Practice for interview\Projects\CLOPE_Clustering\obj\Debug\CLOPE_Clustering.csproj.CoreCompileInputs.cache
